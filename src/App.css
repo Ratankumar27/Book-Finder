@@ -1,0 +1,9 @@
+body {
+  background: #f8f9fa;
+}
+.card-title {
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
